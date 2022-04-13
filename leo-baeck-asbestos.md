@@ -237,7 +237,7 @@
 וההנמקה להתעלם מההמלצה של המומחים היא ״היה פיילוט מוצלח״ - כאשר המסמכים של המשרד עצמו מודים שהפיילוט לא בחן בכלל הסרה של אזבסט מותז על בלוקים,
 ומעבר לכך הסתבך והתארך הרבה מעבר לצפוי (ועוד של שטח קטן וקל לביצוע.
   )
-  
+
 אז כל אבא וכל אמא צריכים לחשוב אם לסמוך על כל המערכת הזאת ולשלוח את הילדים למבנה אחרי שיגידו שהוא נקי.
 
 
@@ -256,14 +256,14 @@
 
 ## המסמכים המלאים
 
-[דו״ח המומחים מקיץ 2017](https://github.com/Leo-Baeck-parent/asbestos/blob/main/asbestos_report_2017.pdf)
+[דו״ח המומחים מקיץ 2017](https://github.com/Leo-Baeck-parent/you-should-know/blob/main/asbestos_report_2017.pdf)
 
 [מסמך ממרץ 2018 - מראה שזאת  עבודה מסוג חדש ותכננו לבדוק שיטות ניקוי חדשות](pre-pilot-plan.pdf)
 
-[מסמך מ-25 ביולי 2018 שמראה שהפיילוט לא מייצג](https://github.com/Leo-Baeck-parent/asbestos/blob/main/inspection-report-July-25-1-0029-2018.pdf)
+[מסמך מ-25 ביולי 2018 שמראה שהפיילוט לא מייצג](https://github.com/Leo-Baeck-parent/you-should-know/blob/main/inspection-report-July-25-1-0029-2018.pdf)
 
-[סיכום הפיילוט מאוגוסט 2018 - מראה כמה פעמים חשבו שנקי ולא היה נקי](https://github.com/Leo-Baeck-parent/asbestos/blob/main/work-summary-HEYTER-1-0029-2018.pdf)
+[סיכום הפיילוט מאוגוסט 2018 - מראה כמה פעמים חשבו שנקי ולא היה נקי](https://github.com/Leo-Baeck-parent/you-should-know/blob/main/work-summary-HEYTER-1-0029-2018.pdf)
 
-[מסמך איכות הסביבה מאי 2021 - קורא לפיילוט הצלחה והבסיס לזה שהם חושבים שהמומחים טעו](https://github.com/Leo-Baeck-parent/asbestos/blob/main/memshala-26-5-2021.pdf)
+[מסמך איכות הסביבה מאי 2021 - קורא לפיילוט הצלחה והבסיס לזה שהם חושבים שהמומחים טעו](https://github.com/Leo-Baeck-parent/you-should-know/blob/main/memshala-26-5-2021.pdf)
 
 </div>
